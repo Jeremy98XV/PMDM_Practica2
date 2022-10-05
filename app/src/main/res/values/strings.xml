@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica 2</string>
+    <string name="EmailHint">Email</string>
+    <string name="ContraseñasHint">Contraseña</string>
+    <string name="EntrenarBtn">ENTRENAR</string>
+    <string name="MensajeTv">Bienvenido </string>
+    <string name="EmailText"> </string>
+
+</resources>
